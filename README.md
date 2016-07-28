@@ -243,7 +243,7 @@ In this concern we can create Methods for each social media to fetch and store a
 
 ### Note: display: "popup" attribute is used when we want social media signup to open in a separate browser window
 
-Final Step 9: Add Gems in Gemfile for Omniauth
+## Final Step 9: Add Gems in Gemfile for Omniauth
 
 ```
   gem 'omniauth-oauth2' , '~> 1.3.1'
